@@ -1,0 +1,31 @@
+{
+  "id": "ab996c58-e147-4565-bbf9-3113ee53b0d5",
+  "recipe_name": "Pakode for Kadhi",
+  "ingredients": [
+    "1/2 cup besan (gram flour)",
+    "Salt to taste",
+    "Chili powder to taste",
+    "A little garam masala",
+    "1/4 tsp. baking soda",
+    "Oil for deep frying"
+  ],
+  "instructions": [
+    "Mix besan, salt, chili powder, garam masala, and baking soda.",
+    "Add water gradually to form a thick batter.",
+    "Heat oil in a deep frying pan.",
+    "Drop spoonfuls of batter into the hot oil.",
+    "Deep fry until golden brown and crispy.",
+    "Drain on paper towels to remove excess oil.",
+    "Set aside for kadhi."
+  ],
+  "cooking_tips": [
+    "Adjust the amount of spices according to your preference.",
+    "Ensure the oil is hot enough before frying for crispy pakode.",
+    "Do not overcrowd the pan while frying to ensure even cooking.",
+    "Drain the pakode well to prevent them from becoming soggy."
+  ],
+  "user_id": "auth0|67cf13fbafe4c1bd98d317bf",
+  "is_favorite": false,
+  "saved_date": "2025-03-15T22:59:21.707953",
+  "is_shared": false
+}

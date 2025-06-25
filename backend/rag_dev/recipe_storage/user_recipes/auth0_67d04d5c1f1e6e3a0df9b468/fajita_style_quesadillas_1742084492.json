@@ -1,0 +1,32 @@
+{
+  "id": "a10b96a8-d0e3-4598-821c-f3e5ffc67456",
+  "recipe_name": "Fajita Style Quesadillas",
+  "ingredients": [
+    "1 tbsp. canola or olive oil",
+    "\u00bd onion, cut into strips",
+    "\u00bd red bell pepper, cut into strips",
+    "\u00bd green bell pepper, cut into strips (optional)",
+    "4 oz. cheese",
+    "Tortillas",
+    "Optional toppings: salsa, guacamole, cilantro, limes"
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and bell peppers to the pan and cook until softened.",
+    "Lay out a tortilla and sprinkle half of it with cheese.",
+    "Top with the cooked vegetables.",
+    "Fold the tortilla in half.",
+    "Cook in a warm non-stick pan, fold-side down, for 2-3 minutes, or until browned and the cheese is melted.",
+    "Flip and cook for another 2-3 minutes.",
+    "Serve with desired toppings."
+  ],
+  "cooking_tips": [
+    "Use a variety of bell peppers for more color and flavor.",
+    "Don't overcrowd the pan when cooking the vegetables.",
+    "For a crispier quesadilla, use a little more oil and cook over medium-high heat."
+  ],
+  "user_id": "auth0|67d04d5c1f1e6e3a0df9b468",
+  "is_favorite": false,
+  "saved_date": "2025-03-16T00:21:32.581420",
+  "is_shared": false
+}

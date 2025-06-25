@@ -1,0 +1,36 @@
+{
+  "id": "d7695a2d-ed49-4aa5-b95d-0a4003da86df",
+  "recipe_name": "Bhindi Masala (Okra with Spices)",
+  "ingredients": [
+    "1 lb fresh okra, washed and trimmed",
+    "1 large onion, chopped",
+    "2 medium tomatoes, chopped",
+    "2 tablespoons vegetable oil",
+    "1 teaspoon ground cumin",
+    "1 teaspoon ground coriander",
+    "1/2 teaspoon turmeric powder",
+    "1/4 teaspoon red chili powder (or to taste)",
+    "1/2 teaspoon garam masala",
+    "Salt to taste",
+    "Fresh coriander leaves for garnish"
+  ],
+  "instructions": [
+    "Wash okra under running water and slice off the ends. Cut each in half. Set aside. Prepare onions and tomatoes. Set aside.",
+    "In a wok or heavy skillet, heat the oil and saut\u00e9 onions until translucent.",
+    "Add ground cumin, ground coriander, turmeric powder, and red chili powder. Stir-fry for 2 minutes.",
+    "Add the chopped tomatoes and cook for 1 minute, stirring constantly.",
+    "Add the okra and stir-fry for 2 minutes.",
+    "Cover and steam over medium heat until tender, about 12-15 minutes.",
+    "Spoon the okra onto a warm serving plate and sprinkle with garam masala. Garnish with fresh coriander leaves and serve hot."
+  ],
+  "cooking_tips": [
+    "Peel onions under cold water to avoid tears.",
+    "Bhoona is a technique that involves cooking over medium-high heat with constant stirring until all liquids are reduced and the spices coat the vegetables.",
+    "If fresh okra is not available, canned okra can be used as a substitute.  If using canned okra, add it towards the end of the cooking process.",
+    "Adjust the amount of chili powder to suit your spice preference."
+  ],
+  "user_id": "auth0|67d04d5c1f1e6e3a0df9b468",
+  "is_favorite": false,
+  "saved_date": "2025-03-16T01:14:12.501876",
+  "is_shared": false
+}

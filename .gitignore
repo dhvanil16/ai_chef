@@ -1,0 +1,4 @@
+venv/
+backend/rag_dev/csv_cookbooks/
+backend/rag_dev/pdf_cookbooks/
+.env

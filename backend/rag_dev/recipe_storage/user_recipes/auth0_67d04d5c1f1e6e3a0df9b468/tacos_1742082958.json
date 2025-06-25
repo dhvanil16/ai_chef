@@ -1,0 +1,42 @@
+{
+  "id": "1883e4f0-411d-4926-a54b-448d6df547e6",
+  "recipe_name": "Tacos",
+  "ingredients": [
+    "1 lb. ground beef (ideally 90% lean)",
+    "1/3 cup dry minced onion",
+    "2 tsp salt",
+    "2 tbsp. chili powder",
+    "2 tbsp. paprika",
+    "1 tsp garlic powder",
+    "1 tsp cumin",
+    "\u00bd tsp oregano",
+    "2 tbsp. flour",
+    "\u00bc C water",
+    "Large (burrito size) tortilla shells",
+    "Lettuce",
+    "Tomato",
+    "Avocado or guacamole",
+    "Salsa",
+    "Cilantro",
+    "Sour cream or plain yogurt",
+    "Hot sauce"
+  ],
+  "instructions": [
+    "Brown the ground beef in a non-stick skillet.",
+    "Once browned, drain fat.",
+    "Combine dry minced onion, salt, chili powder, paprika, garlic powder, cumin, oregano, and flour in a bowl to create the taco seasoning.",
+    "Add the taco seasoning and water to the ground beef.",
+    "Cook until the water is evaporated and the meat is well coated in seasoning.",
+    "Warm tortillas in the microwave or on a dry skillet.",
+    "Fill each tortilla with the seasoned ground beef and desired toppings."
+  ],
+  "cooking_tips": [
+    "For crispier tacos, heat the tortillas in a dry skillet until they are slightly browned.",
+    "Adjust the amount of spices in the taco seasoning to your preference.",
+    "Feel free to add other desired toppings, such as shredded cheese, black beans, or jalapenos."
+  ],
+  "user_id": "auth0|67d04d5c1f1e6e3a0df9b468",
+  "is_favorite": false,
+  "saved_date": "2025-03-15T23:55:58.751223",
+  "is_shared": false
+}

@@ -1,0 +1,31 @@
+{
+  "id": "f196e8ed-6a4b-44b0-ba0a-6aad76bd6ff0",
+  "recipe_name": "Quick Tomato Pasta Sauce",
+  "ingredients": [
+    "2 teaspoons vegetable oil",
+    "2 cloves garlic, minced, or \u00bd teaspoon garlic powder",
+    "1 can (15 ounces) diced or crushed tomatoes with juice",
+    "\u00bc teaspoon salt",
+    "\u00bc teaspoon pepper",
+    "1 Tablespoon lemon juice (optional)",
+    "\u00bc teaspoon red pepper flakes (optional)",
+    "1 teaspoon dried oregano or basil, or Italian seasoning (optional)"
+  ],
+  "instructions": [
+    "If using garlic powder, omit the oil and skip this step. In a medium saucepan, heat the oil over medium heat.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the remaining ingredients.",
+    "Cook until heated through, stirring occasionally.",
+    "For a thicker sauce, cook an extra 10 to 20 minutes to allow more of the liquid to evaporate.",
+    "Serve over pasta or use in any recipe that calls for pasta sauce."
+  ],
+  "cooking_tips": [
+    "If you want a bolder tomato flavor, use crushed tomatoes instead of diced.",
+    "Taste and adjust seasonings as needed.  Canned tomatoes can vary in saltiness.",
+    "For a smoother sauce, blend with an immersion blender or in a regular blender after cooking."
+  ],
+  "user_id": "auth0|67d04d5c1f1e6e3a0df9b468",
+  "is_favorite": false,
+  "saved_date": "2025-03-15T23:50:42.837454",
+  "is_shared": false
+}

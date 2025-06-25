@@ -1,0 +1,33 @@
+{
+  "id": "358b8954-2b93-4820-91cf-c5cf6da7c930",
+  "recipe_name": "Gorditas (adapted from Tortilla recipe)",
+  "ingredients": [
+    "Flour (amount for desired number of gorditas)",
+    "Baking powder (amount based on flour quantity)",
+    "Salt (to taste)",
+    "Vegetable shortening (amount based on flour quantity)",
+    "Water (as needed for dough)",
+    "Filling ingredients of your choice (e.g., cooked meat, beans, cheese, vegetables)"
+  ],
+  "instructions": [
+    "Mix flour, baking powder, and salt.",
+    "Mix in vegetable shortening until dough is well-textured.",
+    "Gradually add water and knead until dough is moldable and doesn't stick to hands.",
+    "Form dough into balls slightly larger than biscuit size.",
+    "Let dough balls rest for 10 minutes.",
+    "Press each dough ball into a thick, flat disk (like a small pie plate).",
+    "Cook on a griddle or moderately warm stove top until cooked through but not browned.",
+    "Make a small slit in the side of each gordita.",
+    "Fill with desired ingredients and serve warm."
+  ],
+  "cooking_tips": [
+    "Adjust baking powder and shortening according to the type of flour used.",
+    "Don't overwork the dough, as this can make the gorditas tough.",
+    "Cook gorditas over medium heat to ensure they cook evenly without burning.",
+    "Get creative with fillings! Traditional options include seasoned meats, refried beans, cheese, and various salsas."
+  ],
+  "user_id": "auth0|67d04d5c1f1e6e3a0df9b468",
+  "is_favorite": false,
+  "saved_date": "2025-03-16T00:23:13.269373",
+  "is_shared": false
+}

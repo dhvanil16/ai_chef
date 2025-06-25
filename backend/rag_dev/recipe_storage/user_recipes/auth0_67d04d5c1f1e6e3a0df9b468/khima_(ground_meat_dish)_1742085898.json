@@ -1,0 +1,38 @@
+{
+  "id": "5b819df5-81df-463b-97b2-9757f817dd09",
+  "recipe_name": "Khima (Ground Meat Dish)",
+  "ingredients": [
+    "1 lb ground meat (lamb, beef, or chicken)",
+    "1 large onion, finely chopped",
+    "2 cloves garlic, minced",
+    "1 inch ginger, grated",
+    "1 tsp ground cumin",
+    "1 tsp ground coriander",
+    "1/2 tsp turmeric powder",
+    "1/4 tsp red chili powder (or more, to taste)",
+    "1/2 cup chopped tomatoes",
+    "1/4 cup chopped cilantro",
+    "2 tbsp oil",
+    "Salt to taste"
+  ],
+  "instructions": [
+    "Heat oil in a large pan or pot over medium heat.",
+    "Add chopped onions and saut\u00e9 until softened and translucent.",
+    "Add minced garlic and grated ginger, and saut\u00e9 for another minute until fragrant.",
+    "Add ground meat to the pan and cook, breaking it up with a spoon, until browned.",
+    "Stir in ground cumin, coriander, turmeric powder, and red chili powder. Cook for 1 minute.",
+    "Add chopped tomatoes and salt. Mix well and cook until the tomatoes soften.",
+    "Reduce heat to low, cover the pan, and simmer for 15-20 minutes, or until the meat is cooked through and the flavors have melded.",
+    "Stir in chopped cilantro before serving."
+  ],
+  "cooking_tips": [
+    "You can adjust the amount of spices to your preference.",
+    "For a richer flavor, you can add a dollop of yogurt or cream at the end.",
+    "Serve khima with rice, roti, or naan bread.",
+    "Khima can be stored in the refrigerator for up to 3 days."
+  ],
+  "user_id": "auth0|67d04d5c1f1e6e3a0df9b468",
+  "is_favorite": false,
+  "saved_date": "2025-03-16T00:44:58.752165",
+  "is_shared": false
+}
